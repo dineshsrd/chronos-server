@@ -1,4 +1,4 @@
-package com.scheduler.chronos;
+package com.chronos;
 
 import org.springframework.boot.SpringApplication;
 
